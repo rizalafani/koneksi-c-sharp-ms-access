@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3800
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud_access", "crud_access\crud_access.csproj", "{43DC01DF-121B-4DFE-867F-6FF1802789E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DC01DF-121B-4DFE-867F-6FF1802789E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DC01DF-121B-4DFE-867F-6FF1802789E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DC01DF-121B-4DFE-867F-6FF1802789E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DC01DF-121B-4DFE-867F-6FF1802789E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
